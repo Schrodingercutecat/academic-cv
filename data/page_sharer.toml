@@ -3,7 +3,7 @@
 
 [[buttons]]
   id = "twitter"
-  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  url = "https://twitter.com/wehentan07894"
   title = "Twitter"
   icon_pack = "fab"
   icon = "twitter"
@@ -19,7 +19,7 @@
 
 [[buttons]]
   id = "email"
-  url = "mailto:?subject={title}&body={url}"
+  url = "wayneyeyali@gmail.com"
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
@@ -39,7 +39,7 @@
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "weibo"
@@ -47,7 +47,7 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "reddit"
